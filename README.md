@@ -4,9 +4,10 @@ This is a personal list of papers I have read/ will read.
 As time goes on, more papers will be added to this list.
 
 I feel to effectively be very very good at ML/DL, It's important I develop a habit of reading research papers and understanding dem research papers FAST.
+
 ## Papers
 
-| Paper title                                                                                  |                 Arxiv link                 | Read | Implemented |
+| Paper title                                                                                  |               Resource Link                | Read | Implemented |
 | :------------------------------------------------------------------------------------------- | :----------------------------------------: | :--: | :---------- |
 | Neural Algorithm of Artistic Style                                                           |      https://arxiv.org/abs/1508.06576      |  ✔️  | ✔️          |
 | Adam: A Method for Stochastic Optimization                                                   |      https://arxiv.org/abs/1412.6980       |  ✔️  | ✔️          |
