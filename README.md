@@ -12,7 +12,7 @@ I feel to effectively be very very good at ML/DL, It's important I develop a hab
 | Neural Algorithm of Artistic Style                                                           |      https://arxiv.org/abs/1508.06576      |  ✔️  | ✔️          |
 | Adam: A Method for Stochastic Optimization                                                   |      https://arxiv.org/abs/1412.6980       |  ✔️  | ✔️          |
 | BatchNorm: Accelerating Deep Network Training by Reducing Internal Covariate Shift           |      https://arxiv.org/abs/1502.03167      |  ✔️  | ✔️          |
-| EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks                     |      https://arxiv.org/abs/1905.11946      |  ❌  | ❌          |
+| EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks                     |      https://arxiv.org/abs/1905.11946      |  ✔️  | ❌          |
 | Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis        |      https://arxiv.org/abs/1802.09941      |  ❌  | ❌          |
 | Generating Sequences with Recurrent Neural Networks                                          |      https://arxiv.org/abs/1308.0850       |  ❌  | ❌          |
 | YOLO: Unified Object Detection                                                               |      https://arxiv.org/pdf/1506.02640      |  ❌  | ❌          |
