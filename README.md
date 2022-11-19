@@ -14,7 +14,7 @@ I feel to effectively be very very good at ML/DL, It's important I develop a hab
 | BatchNorm: Accelerating Deep Network Training by Reducing Internal Covariate Shift           |      https://arxiv.org/abs/1502.03167      |  ✔️  | ✔️          |
 | EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks                     |      https://arxiv.org/abs/1905.11946      |  ✔️  | ✔️          |
 | Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis        |      https://arxiv.org/abs/1802.09941      |  ✔️  | N/A          |
-| Generating Sequences with Recurrent Neural Networks                                          |      https://arxiv.org/abs/1308.0850       |  ❌  | ❌          |
+| Generating Sequences with Recurrent Neural Networks                                          |      https://arxiv.org/abs/1308.0850       |  ✔️  | ❌          |
 | YOLO: Unified Object Detection                                                               |      https://arxiv.org/pdf/1506.02640      |  ❌  | ❌          |
 | Show and Tell: A Neural Image Caption Generator                                              |      https://arxiv.org/pdf/1411.4555       |  ❌  | ❌          |
 | Show, attend and Tell                                                                        |      https://arxiv.org/pdf/1502.03044      |  ❌  | ❌          |
