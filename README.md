@@ -17,8 +17,8 @@ I feel to effectively be very very good at ML/DL, It's important I develop a hab
 | Generating Sequences with Recurrent Neural Networks                                          |      https://arxiv.org/abs/1308.0850       |  ✔️  | ❌          |
 | YOLO: Unified Object Detection                                                               |      https://arxiv.org/pdf/1506.02640      |  ✔️  | ✔️          |
 | Show and Tell: A Neural Image Caption Generator                                              |      https://arxiv.org/pdf/1411.4555       |  ✔️  | ✔️          |
-| Show, attend and Tell                                                                        |      https://arxiv.org/pdf/1502.03044      |  ❌  | ❌          |
-| Tutorial on Variational Autoencoders                                                         |      https://arxiv.org/abs/1606.05908      |  ❌  | ❌          |
+| Show, attend and Tell                                                                        |      https://arxiv.org/pdf/1502.03044      |  🚧  | ❌          |
+| Tutorial on Variational Autoencoders                                                         |      https://arxiv.org/abs/1606.05908      |  🚧  | ❌          |
 | Deep Residual Learning for Image Recognition                                                 |      https://arxiv.org/pdf/1603.05027      |  ❌  | ❌          |
 | Attention Is All You Need                                                                    |      https://arxiv.org/abs/1706.03762      |  ❌  | ❌          |
 | Reformer: The Efficient Transformer                                                          | https://openreview.net/forum?id=rkgNKkHtvB |  ❌  | ❌          |
