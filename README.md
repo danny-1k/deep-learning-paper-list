@@ -20,7 +20,7 @@ I feel to effectively be very very good at ML/DL, It's important I develop a hab
 | Show, attend and Tell                                                                        |      https://arxiv.org/pdf/1502.03044      |  🚧  | ❌          |
 | Tutorial on Variational Autoencoders                                                         |      https://arxiv.org/abs/1606.05908      |  🚧  | ❌          |
 | Deep Residual Learning for Image Recognition                                                 |      https://arxiv.org/pdf/1603.05027      |  ❌  | ❌          |
-| Neural Machine Translation By Jointly Learning To Align And Translate                        |    https://arxiv.org/pdf/1409.0473.pdf     |  🚧  | ❌          |
+| Neural Machine Translation By Jointly Learning To Align And Translate                        |    https://arxiv.org/pdf/1409.0473.pdf     |  ✔️  | 🚧          |
 | Effective Approaches to Attention-based Neural Machine Translation                           |    https://arxiv.org/pdf/1508.04025.pdf    |  ❌  | ❌          |
 | Attention Is All You Need                                                                    |      https://arxiv.org/abs/1706.03762      |  ❌  | ❌          |
 | Reformer: The Efficient Transformer                                                          | https://openreview.net/forum?id=rkgNKkHtvB |  ❌  | ❌          |
