@@ -18,7 +18,7 @@ I feel to effectively be very very good at ML/DL, It's important I develop a hab
 | YOLO: Unified Object Detection                                                               |      https://arxiv.org/pdf/1506.02640      |  ✔️  | ✔️          |
 | Show and Tell: A Neural Image Caption Generator                                              |      https://arxiv.org/pdf/1411.4555       |  ✔️  | ✔️          |
 | Show, attend and Tell                                                                        |      https://arxiv.org/pdf/1502.03044      |  🚧  | ❌          |
-| Tutorial on Variational Autoencoders                                                         |      https://arxiv.org/abs/1606.05908      |  🚧  | ❌          |
+| Tutorial on Variational Autoencoders                                                         |      https://arxiv.org/abs/1606.05908      |  ✔️  | N/A          |
 | Deep Residual Learning for Image Recognition                                                 |      https://arxiv.org/pdf/1603.05027      |  ❌  | ❌          |
 | Neural Machine Translation By Jointly Learning To Align And Translate                        |    https://arxiv.org/pdf/1409.0473.pdf     |  ✔️  | 🚧          |
 | Effective Approaches to Attention-based Neural Machine Translation                           |    https://arxiv.org/pdf/1508.04025.pdf    |  ❌  | ❌          |
