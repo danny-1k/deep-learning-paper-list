@@ -21,8 +21,8 @@ I feel to effectively be very very good at ML/DL, It's important I develop a hab
 | Tutorial on Variational Autoencoders                                                         |      https://arxiv.org/abs/1606.05908      |  ✔️  | N/A          |
 | Deep Residual Learning for Image Recognition                                                 |      https://arxiv.org/pdf/1603.05027      |  ❌  | ❌          |
 | Neural Machine Translation By Jointly Learning To Align And Translate                        |    https://arxiv.org/pdf/1409.0473.pdf     |  ✔️  | 🚧          |
-| Effective Approaches to Attention-based Neural Machine Translation                           |    https://arxiv.org/pdf/1508.04025.pdf    |  ❌  | ❌          |
-| Attention Is All You Need                                                                    |      https://arxiv.org/abs/1706.03762      |  ❌  | ❌          |
+| Effective Approaches to Attention-based Neural Machine Translation                           |    https://arxiv.org/pdf/1508.04025.pdf    |  ✔️  | ❌          |
+| Attention Is All You Need                                                                    |      https://arxiv.org/abs/1706.03762      |  ✔️  | ❌          |
 | Reformer: The Efficient Transformer                                                          | https://openreview.net/forum?id=rkgNKkHtvB |  ❌  | ❌          |
 | Efficient Estimation of Word Representations in Vector Space (Word2Vec)                      |      https://arxiv.org/abs/1301.3781       |  ❌  | ❌          |
 | Generative Adverserial Networks                                                              |      https://arxiv.org/abs/1406.2661       |  ❌  | ❌          |
@@ -31,3 +31,4 @@ I feel to effectively be very very good at ML/DL, It's important I develop a hab
 | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks              |      https://arxiv.org/abs/1703.10593      |  ❌  | ❌          |
 | U-Net: Convolutional Networks for Biomedical Image Segmentation                              |      https://arxiv.org/abs/1505.04597      |  ❌  | ✔️          |
 | Rethinking Atrous Convolution for Semantic Image Segmentation (DeepLab-v3)                   |     https://arxiv.org/abs/1706.055877      |  ❌  | ❌          |
+| A Generalist Agent                                                                           |  https://openreview.net/pdf?id=1ikK0kHjvj  |  ✔️  | ❌          |
