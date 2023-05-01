@@ -29,6 +29,7 @@ I feel to effectively be very very good at ML/DL, It's important I develop a hab
 | Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks |      https://arxiv.org/abs/1511.06434      |  ❌  | ❌          |
 | Conditional Generative Adversarial Nets                                                      |      https://arxiv.org/abs/1411.1784       |  ❌  | ❌          |
 | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks              |      https://arxiv.org/abs/1703.10593      |  ❌  | ❌          |
-| U-Net: Convolutional Networks for Biomedical Image Segmentation                              |      https://arxiv.org/abs/1505.04597      |  ❌  | ✔️          |
+| U-Net: Convolutional Networks for Biomedical Image Segmentation                              |      https://arxiv.org/abs/1505.04597      |  ✔️  | ✔️          |
 | Rethinking Atrous Convolution for Semantic Image Segmentation (DeepLab-v3)                   |     https://arxiv.org/abs/1706.055877      |  ❌  | ❌          |
 | A Generalist Agent                                                                           |  https://openreview.net/pdf?id=1ikK0kHjvj  |  ✔️  | ❌          |
+| Improving Language Understanding by Generative Pre-Training                                  | https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf | ✔️ | N/A |
