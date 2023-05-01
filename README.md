@@ -2,6 +2,7 @@
 
 This is a personal list of papers I have read/ will read.
 As time goes on, more papers will be added to this list.
+*This is not an exhaustive list of papers I have read*
 
 I feel to effectively be very very good at ML/DL, It's important I develop a habit of reading research papers and understanding dem research papers FAST.
 
